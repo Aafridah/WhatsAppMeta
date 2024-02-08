@@ -13,5 +13,5 @@ public class UnitOfWork : IUnitOfWork
         _logger = logger;
     }
     private IWhatsAppRepository _whatsAppRepository;
-    public IWhatsAppRepository WhatsAppRepository => _whatsAppRepository ?? new WhatsAppRepository(_dbRepository, _logger);
+    public IWhatsAppRepository WhatsAppRepository => _whatsAppRepository ??= new WhatsAppRepository(_dbRepository, _logger);
 }
