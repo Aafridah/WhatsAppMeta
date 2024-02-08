@@ -1,0 +1,7 @@
+C:\Users\Afridah\source\repos\WhatsAppMeta\obj\Debug\net8.0\WhatsAppMeta.csproj.AssemblyReference.cache
+C:\Users\Afridah\source\repos\WhatsAppMeta\obj\Debug\net8.0\WhatsAppMeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afridah\source\repos\WhatsAppMeta\obj\Debug\net8.0\WhatsAppMeta.AssemblyInfoInputs.cache
+C:\Users\Afridah\source\repos\WhatsAppMeta\obj\Debug\net8.0\WhatsAppMeta.AssemblyInfo.cs
+C:\Users\Afridah\source\repos\WhatsAppMeta\obj\Debug\net8.0\WhatsAppMeta.csproj.CoreCompileInputs.cache
+C:\Users\Afridah\source\repos\WhatsAppMeta\obj\Debug\net8.0\WhatsAppMeta.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Afridah\source\repos\WhatsAppMeta\obj\Debug\net8.0\WhatsAppMeta.MvcApplicationPartsAssemblyInfo.cache
