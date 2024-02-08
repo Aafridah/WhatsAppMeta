@@ -773,11 +773,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\WhatsAppMeta.csproj",
+      "projectUniqueName": "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\WhatsAppMeta.csproj",
       "projectName": "WhatsAppMeta",
-      "projectPath": "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\WhatsAppMeta.csproj",
+      "projectPath": "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\WhatsAppMeta.csproj",
       "packagesPath": "C:\\Users\\Afridah\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\obj\\",
+      "outputPath": "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Afridah\\AppData\\Roaming\\NuGet\\NuGet.Config",
