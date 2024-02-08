@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\WhatsAppMeta.csproj": {}
+    "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\WhatsAppMeta.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\WhatsAppMeta.csproj": {
+    "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\WhatsAppMeta.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\WhatsAppMeta.csproj",
+        "projectUniqueName": "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\WhatsAppMeta.csproj",
         "projectName": "WhatsAppMeta",
-        "projectPath": "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\WhatsAppMeta.csproj",
+        "projectPath": "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\WhatsAppMeta.csproj",
         "packagesPath": "C:\\Users\\Afridah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Afridah\\Documents\\GitHub\\WhatsAppMeta\\obj\\",
+        "outputPath": "C:\\Users\\Afridah\\source\\repos\\WhatsAppMeta\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Afridah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,34 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.28, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[5.2.8, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -59,6 +87,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
             }
           },
           "imports": [
